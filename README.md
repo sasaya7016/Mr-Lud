@@ -27,7 +27,7 @@
 - ruby 2.5.1
 - Ruby on Rails 5.2.4.3
 - postgresql
-- <a href="https://developers.line.biz/ja/">Line API  gem 'line-bot-api'</a>
+- <a href="https://developers.line.biz/ja/">Line API  </a>
 - <a href="https://ja.weather-forecast.com/">WeatherForecast API</a>
 - <a href="https://jp.heroku.com/">heroku  deploy/heroku Scheduler</a>
 
