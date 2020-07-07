@@ -14,17 +14,17 @@
 - ruby 2.5.1
 - Ruby on Rails 5.2.4.3
 - postgresql
-- Line API  gem 'line-bot-api'
-- WeatherForecast API <a href="https://ja.weather-forecast.com/">
-- heroku  deploy/heroku Scheduler
+- <a href="https://developers.line.biz/ja/">Line API  gem 'line-bot-api'</a>
+- <a href="https://ja.weather-forecast.com/">WeatherForecast API</a>
+- <a href="https://jp.heroku.com/">heroku  deploy/heroku Scheduler</a>
+
 
 # Usage
-## @333bpcpc
 <img src="https://user-images.githubusercontent.com/61730661/86770260-5fe43580-c08b-11ea-84b0-8c866c64316b.jpg" width="300px;" height="200px;" />
+@333bpcpc
 
 
 # 
-毎日8時に天気予報を教えてくれます！
-<br>
-設定：東京エリア
+毎日8時に天気予報(設定：東京エリア)を教えてくれます！
+
 
