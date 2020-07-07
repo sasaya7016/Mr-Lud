@@ -1,24 +1,12 @@
-# README
+![ramenTimer](https://〜.gif)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h2 align="center">Ramen Timer</h2>
 
-Things you may want to cover:
+<p align="center">
+  <a href="vue公式サイトURL"><img src="https://〜.png" width="80px;" /></a>
+  <br>
+  <a href="Line-API公式サイトURL"><img src="https://〜.png" height="40px;" /></a>
+  <a href="Rails公式サイトURL"><img src="https://〜.png" height="40px;" /></a>
+  <a href="heroku公式サイトURL"><img src="https://〜.png" height="40px;" /></a>
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+</p>
