@@ -56,7 +56,7 @@ class LinebotController < ApplicationController
             end
           when /.*(かわいい|可愛い|カワイイ|きれい|綺麗|キレイ|素敵|ステキ|すてき|面白い|おもしろい|ありがと|すごい|スゴイ|スゴい|好き|頑張|がんば|ガンバ).*/
             push =
-              "ありがとう！！！\n優しい言葉をかけてくれるあなたはとても素敵です(^^)"
+              "ありがとう！！！\n励みになります！！\nうれC通り越して、うれDです(^^)"
           when /.*(お疲れ|お疲れ様|おつかれ|疲れた|ご苦労|ごくろう).*/
             push =
               "お疲れ様です\nお声がけありがとう！！\nしっかり休んで明日も頑張りましょう！！"
@@ -69,7 +69,7 @@ class LinebotController < ApplicationController
               "こんにちはー！！！\n今日も一日頑張りましょう！！\n午後からもLucky Dayでありますように"
           when /.*(こんばんは).*/
             push =
-              "こんばんは！\nお疲れ様！\nお仕事は終わりました？\nまだでしたらもう少しファイトー(^^)"
+              "こんばんは！\nお疲れ様！\nお仕事、学校は終わりました？\nまだでしたらもう少しファイトー(^^)"
           else
             per06to12 = doc.elements[xpath + 'info/rainfallchance/period[2]l'].text
             per12to18 = doc.elements[xpath + 'info/rainfallchance/period[3]l'].text
@@ -93,21 +93,21 @@ class LinebotController < ApplicationController
           end
           # テキスト以外（画像等）のメッセージが送られた場合
         else
-          push = "テキスト以外はわからないですね(；；)"
+          push = "ごめんなさーい！テキスト以外はわからないです"
         end
         message = {
           type: 'text',
           text: push
         }
         client.reply_message(event['replyToken'], message)
-        # LINEお友達追された場合（機能②）
+        # LINE友達追された場合（機能②）
       when Line::Bot::Event::Follow
         # 登録したユーザーのidをユーザーテーブルに格納
         line_id = event['source']['userId']
         User.create(line_id: line_id)
-        # LINEお友達解除された場合（機能③）
+        # LINE友達解除された場合（機能③）
       when Line::Bot::Event::Unfollow
-        # お友達解除したユーザーのデータをユーザーテーブルから削除
+        # 友達解除したユーザーのデータをユーザーテーブルから削除
         line_id = event['source']['userId']
         User.find_by(line_id: line_id).destroy
       end
