@@ -1,4 +1,10 @@
 # LINE-BOT 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61730661/86809048-6340e680-c0b6-11ea-9350-70961f746604.jpeg" height="45px;" />
+  <img src="https://user-images.githubusercontent.com/61730661/86809140-810e4b80-c0b6-11ea-9102-2f60763349d9.png" height="45px;" />
+</p>
+
 ## :iphone: ミスターラッド [Mr.Lud]
 ### Lucky dayの頭文字とって 「 Lu + d 」 = Lud <br>
 
