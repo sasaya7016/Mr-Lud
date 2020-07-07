@@ -1,6 +1,6 @@
 ![ramenTimer](https://〜.gif)
 
-<h2 align="center">Ramen Timer</h2>
+<h2 align="center">Mr-Lud</h2>
 
 <p align="center">
   <a href="vue公式サイトURL"><img src="https://〜.png" width="80px;" /></a>
