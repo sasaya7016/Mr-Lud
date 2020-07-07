@@ -5,6 +5,9 @@ Lucky dayの頭文字とって 「 Lu + d 」 = Lud <br>
 毎日天気を教えてくれて、話相手になってくれます。 <br>
 ※Line-Botになっておりますので、下記QRから登録ができます。 <br>
 
+## 🌐 QRコード
+
+### **<img src="https://user-images.githubusercontent.com/61730661/86807170-95e9df80-c0b4-11ea-873d-c8f0279477e4.png" alt="mrlud-lineQR"> **  
 
 # Requirements
 - ruby 2.5.1
