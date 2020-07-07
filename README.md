@@ -1,10 +1,11 @@
-# Mr-Lud / ミスターラッド　(※Line-Botです）
-* Lucky dayの頭文字とって 「 Lu + d 」 = Lud
-* 毎日楽しいラッキーな日を過ごして欲しいと思い名前付けました！
-* 毎日天気を教えてくれて、話相手になってくれます。
+# Mr-Lud
+App名：ミスターラッドと言います。
+Lucky dayの頭文字とって 「 Lu + d 」 = Lud
+毎日楽しいラッキーな日を過ごして欲しいと思い名前付けました！
+毎日天気を教えてくれて、話相手になってくれます。
+※Line-Botになっておりますので、下記QRから登録ができます。
 
 <h2 align="center">Mr-Lud</h2>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61730661/86770260-5fe43580-c08b-11ea-84b0-8c866c64316b.jpg" width="300px;" height="200px;" />
   <br>
