@@ -1,11 +1,11 @@
-# LINE-BOT
+# LINE-BOT:ミスターラッド [Mr.Lud]　
 <p align="left">
-<!--   <img src="#" height="300px;" width="600px;" /> -->
+  <img src="https://user-images.githubusercontent.com/61730661/86811729-34783f80-c0b9-11ea-97f9-0c524ee1a6f0.png" height="300px;" width="600px;" />
   <img src="https://user-images.githubusercontent.com/61730661/86810299-bb2c1d00-c0b7-11ea-825b-6d4547c6be9c.jpeg" height="300px;" width="180px;" />
   <img src="https://user-images.githubusercontent.com/61730661/86810295-ba938680-c0b7-11ea-89be-6783c3b0c292.jpeg" height="300px;" width="180px;" />
 </p>
 
-## :iphone: ミスターラッド [Mr.Lud]　アプリ紹介
+## :iphone: アプリ紹介
 ### Lucky dayの頭文字とって 「 Lu + d 」 = Lud <br>
 毎日楽しいラッキーな日を過ごして欲しいと思い名前付けました！ <br>
 毎日天気を教えてくれて、話相手になってくれます。 <br>
