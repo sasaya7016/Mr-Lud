@@ -1,4 +1,4 @@
-![ramenTimer](https://〜.gif)
+![Mr-Lud](https://〜.gif)
 
 <h2 align="center">Mr-Lud</h2>
 
