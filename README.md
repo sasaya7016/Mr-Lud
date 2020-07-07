@@ -7,3 +7,10 @@
   <a href="Line-API公式サイトURL"><img src="https://user-images.githubusercontent.com/61730661/86769292-eac43080-c089-11ea-959a-dfc9a1b450cb.png" width="300px;" height="200px;" /></a>
   <a href="heroku公式サイトURL"><img src="https://user-images.githubusercontent.com/61730661/86769986-f6fcbd80-c08a-11ea-89f0-00733ac59684.png" width="300px;" height="200px;" /></a>
 </p>
+
+
+# Requirements
+- ruby 2.5.1
+- Ruby on Rails 5.2.4.3
+- Line API
+- heroku
