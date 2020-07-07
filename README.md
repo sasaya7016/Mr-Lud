@@ -1,4 +1,7 @@
-![Mr-Lud](https://〜.gif)
+# Mr-Lud / ミスターラッド　(※Line-Botです）
+## Lucky dayの頭文字とって 「 Lu + d 」 = Lud
+## 毎日楽しいラッキーな日を過ごして欲しいと思い名前付けました！
+## 毎日天気を教えてくれて、話相手になってくれます。
 
 <h2 align="center">Mr-Lud</h2>
 
