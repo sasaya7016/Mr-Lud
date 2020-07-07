@@ -69,7 +69,7 @@ class LinebotController < ApplicationController
               "こんにちはー！！！\n今日も一日頑張りましょう！！\n午後からもLucky Dayでありますように"
           when /.*(こんばんは).*/
             push =
-              "こんばんは！\nお疲れ様！\nお仕事は終わ利ました？\nまだでしたらもう少しファイトー(^^)"
+              "こんばんは！\nお疲れ様！\nお仕事は終わりました？\nまだでしたらもう少しファイトー(^^)"
           else
             per06to12 = doc.elements[xpath + 'info/rainfallchance/period[2]l'].text
             per12to18 = doc.elements[xpath + 'info/rainfallchance/period[3]l'].text
