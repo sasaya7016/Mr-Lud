@@ -60,6 +60,9 @@ class LinebotController < ApplicationController
           when /.*(お疲れ|お疲れ様|おつかれ|疲れた|ご苦労|ごくろう).*/
             push =
               "お疲れ様です\nお声がけありがとう！！\nしっかり休んで明日も頑張りましょう！！"
+          when /.*(プログラミング|programing).*/
+            push =
+              "プログラミングすごいですよね"
 
           when /.*(おはよう|おは|おはよ|おはよー|morning|グッドモーニング|good morning).*/
             push =
